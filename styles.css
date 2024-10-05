@@ -13,7 +13,7 @@ body {
     margin: 0 auto;
 }
 
-.viewer {
+.player__video {
     width: 100%;
     display: block;
     border: 5px solid #333;

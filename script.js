@@ -1,5 +1,5 @@
 const player = document.querySelector('.player');
-const video = player.querySelector('.viewer');
+const video = player.querySelector('.player__video');
 const toggle = player.querySelector('.toggle');
 const volume = player.querySelector('[name="volume"]');
 const playbackSpeed = player.querySelector('[name="playbackSpeed"]');
